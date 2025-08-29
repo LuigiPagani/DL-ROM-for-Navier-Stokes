@@ -9,7 +9,7 @@ This repository explores the application of DL-ROMs to the Navier-Stokes equatio
 ## Contents
 
 - **DL_ROM.ipynb**: A Jupyter notebook that implements the DL-ROM methodology for the Navier-Stokes boundary value problem, showcasing the process from data generation to model training and evaluation.
-- **NAML_Report.pdf**: A detailed report that provides an in-depth explanation of the DL-ROM approach, the architecture used, the application to the Navier-Stokes problem, and a comparison of accuracy and computational efficiency with traditional methods.
+- **NAML_Report.pdf**: A detailed report that provides an in-depth explanation of the DL-ROM approach, the architecture used, the application  to the Navier-Stokes problem, and a comparison of accuracy and computational efficiency with traditional methods.
 
 ## Key Concepts
 
