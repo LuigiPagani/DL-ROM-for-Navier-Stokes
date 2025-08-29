@@ -14,7 +14,7 @@ This repository explores the application of DL-ROMs to the Navier-Stokes equatio
 ## Key Concepts
 
 ### 1. **Deep Learning-Based Reduced Order Models (DL-ROMs)**
-DL-ROMs are fully data-driven approaches designed to approximate the solution of parameterized PDEs using deep learning architectures, particularly autoencoders. The goal is to create a low-dimensional representation of the PDE solutions, reducing computational requirements without compromising the accuracy of the results.
+DL-ROMs are fully data-driven approaches designed to approximate the solution of parameterized PDEs using deep learning architectures, particularly autoencoders. The goal is to create a low-dimensional representation of the PDE solutions, reducing computational requirements without compromising the accuracy of the results. t
 
 ### 2. **Navier-Stokes Boundary Value Problem**
 The Navier-Stokes equations, which describe fluid flow, serve as the primary application for the DL-ROM developed in this project. The challenge lies in the equations' nonlinear nature and the wide range of scales in fluid flow, making them an ideal case study for reduced-order modeling.
