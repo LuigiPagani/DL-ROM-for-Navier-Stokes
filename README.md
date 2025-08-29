@@ -1,6 +1,6 @@
 # Deep Learning-Based Reduced Order Modeling for Navier-Stokes Equations
 
-Welcome to the repository dedicated to developing and applying Deep Learning-based Reduced Order Models (DL-ROMs) for efficiently solving the Navier-Stokes equations. This project is part of the Numerical Analysis for Machine Learning course at Politecnico di Milano for the academic year 2023/2024. Test
+Welcome to the repository dedicated to developing and applying Deep Learning-based Reduced Order Models (DL-ROMs) for efficiently solving the Navier-Stokes equations. This project is part of the Numerical Analysis for Machine Learning course at Politecnico di Milano for the academic year 2023/2024.
 
 ## Project Overview
 
