@@ -37,4 +37,4 @@ This project demonstrates the potential of deep learning in reducing the computa
 
 ## Getting Started
 
-To run the notebooks, it is highly recommended to open it in Google Colab using the button provided at the beginning of the Jupyter notebook. y h
+To run the notebooks, it is highly recommended to open it in Google Colab using the button provided at the beginning of the Jupyter notebook.
